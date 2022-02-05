@@ -42,10 +42,63 @@ Your final project report should be written in the style of a conference paper, 
 
 All work is courtesy of the students named and are used with permission.
 
-| project topics | group members |
-| --- | --- |
-| Javarifier: Inferring Reference Immutability for Java® ([PDF]({{< baseurl >}}/resources/javarifier)) | Matthew Tschantz, Chen Xiao, and Vineet Sinha |
-| Automated Test-case Generation with SAT ([PDF]({{< baseurl >}}/resources/test_generation)) | Greg Dennis and Robert Seater |
-| Annotation-less Unit Type Inference for C (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/unit_type_infere)) | Philip Guo and Stephen McCamant |
-| Safe Test Case Reduction ([PDF]({{< baseurl >}}/resources/test_case_anon)) | Brad Howes and Anonymous |
-| Automatic Generation of Unit Regression Tests ([PDF]({{< baseurl >}}/resources/unit_regression)) | Shay Artzi, Adam Kiezun, Carlos Pacheco, and Jeff Perkins
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+project topics
+{{< thclose >}}
+{{< thopen >}}
+group members
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Javarifier: Inferring Reference Immutability for Java® ([PDF]({{< baseurl >}}/resources/javarifier))
+{{< tdclose >}}
+{{< tdopen >}}
+Matthew Tschantz, Chen Xiao, and Vineet Sinha
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Automated Test-case Generation with SAT ([PDF]({{< baseurl >}}/resources/test_generation))
+{{< tdclose >}}
+{{< tdopen >}}
+Greg Dennis and Robert Seater
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Annotation-less Unit Type Inference for C (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/unit_type_infere))
+{{< tdclose >}}
+{{< tdopen >}}
+Philip Guo and Stephen McCamant
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Safe Test Case Reduction ([PDF]({{< baseurl >}}/resources/test_case_anon))
+{{< tdclose >}}
+{{< tdopen >}}
+Brad Howes and Anonymous
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Automatic Generation of Unit Regression Tests ([PDF]({{< baseurl >}}/resources/unit_regression))
+{{< tdclose >}}
+{{< tdopen >}}
+Shay Artzi, Adam Kiezun, Carlos Pacheco, and Jeff Perkins
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
