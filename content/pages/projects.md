@@ -75,7 +75,7 @@ Greg Dennis and Robert Seater
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Annotation-less Unit Type Inference for C (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/unit_type_infere))
+Annotation-less Unit Type Inference for C ([PDF]({{< baseurl >}}/resources/unit_type_infere))
 {{< tdclose >}}
 {{< tdopen >}}
 Philip Guo and Stephen McCamant
