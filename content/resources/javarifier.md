@@ -10,6 +10,7 @@ description: 'This file includes background on the Javari language, explains the
   on a variety of java program, related work, and the conclusion.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-883-program-analysis-fall-2005/e0cdb8c7dda2b85b3ae377bf45cc1bbb_javarifier.pdf
 file_type: application/pdf
+parent_uid: 093f7fe0-0555-3f32-9c47-34c6496785fe
 resourcetype: Document
 title: javarifier.pdf
 uid: e0cdb8c7-dda2-b85b-3ae3-77bf45cc1bbb

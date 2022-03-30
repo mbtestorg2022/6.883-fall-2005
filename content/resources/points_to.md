@@ -5,6 +5,7 @@ description: This file provides and overview of classic research challenge, new 
   Steensgaard example, and Andersen example.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-883-program-analysis-fall-2005/c6c213ad0be99552f212ffb9b1d93181_points_to.pdf
 file_type: application/pdf
+parent_uid: 3f1d813b-7bf1-c2a5-cf0b-64798974910c
 resourcetype: Document
 title: points_to.pdf
 uid: c6c213ad-0be9-9552-f212-ffb9b1d93181
